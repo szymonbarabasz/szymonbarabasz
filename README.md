@@ -2,7 +2,7 @@
 Hello!<br><br>I'm working as Frontend Developer using JavaScript, TypeScript, React and SASS.<br>
 🔭 I’m currently working on an web application for aggregation of LinkedIn users data and managing it for recruitment purposes for Novaris sp. z o.o. gaining expirence as Frontend Developer and learning to work as a programmer in developers team.<br>
 🌱 I’m currently developing my JS, TS and React knowledge and skills.<br>
-👯 I’m looking to collaborate on web app as Frontend Developer.<br>
+👯 I’m looking for collaboration on web app as Frontend Developer.<br>
 💬 Ask me about my repositories and projects.<br>
 📫 How to reach me by mail: szymon.barabasz95@gmail.com.
 
