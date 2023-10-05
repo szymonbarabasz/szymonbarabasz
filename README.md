@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!<br><br>I'm working as Frontend Developer using JavaScript, TypeScript, React and SASS.<br>
+Hello!<br><br>I'm Frontend Developer using JavaScript, TypeScript, React and SASS.<br>
 🔭 I’m currently working on an web application for aggregation of LinkedIn users data and managing it for recruitment purposes for Novaris sp. z o.o. gaining expirence as Frontend Developer and learning to work as a programmer in developers team.<br>
 🌱 I’m currently developing my JS, TS and React knowledge and skills, meanwhile learning Angular.<br>
 👯 I’m looking for collaboration on web app as Frontend Developer.<br>
